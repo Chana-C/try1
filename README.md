@@ -8,3 +8,9 @@ bla bla
 bla bla
 #### title 5
 bla bla
+```cpp
+int num = 100;
+```
+```java
+int num = 10;
+```
